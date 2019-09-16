@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Execute our json-server first to load data to the application:
+
+### `json-server server.json -p 3333 -w`
+
 In the project directory, you can run:
 
 ### `npm start`
